@@ -9,7 +9,11 @@ const emojiDicsnory = {
   "🐩": " Poodle",
   "🦄": "unicorn",
   "🐿️": "Chipmunk",
-  "🐉": "dragon"
+  "🐉": "dragon",
+  "🐂 ": "ox",
+  "🐞": "Lady Beetle",
+  "🐛": "Bug",
+  "🦎": "Lizard"
 };
 
 var emojisWeKnow = Object.keys(emojiDicsnory);
